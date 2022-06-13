@@ -224,7 +224,7 @@ $__network->send( );
 							</div>
 						</div>
 						
-						<button class="btn btn-primary" type="button" id="filter">Filter</button>
+						<button class="btn btn-primary" type="button" id="filter"><?= $__language->get("filter", "Filter") ?> </button>
 					</div>
 				</div>
 			</div>
@@ -236,7 +236,7 @@ $__network->send( );
 			</div>
 		</div>
 		
-		<script type="text/javascript" src="static/resources/javascript/jquery-3.3.1.min.js"></script>
+		<script type="text/javascript" src="static/resources/javascript/jquery-3.6.0.min.js"></script>
 		<script type="text/javascript" src="static/resources/javascript/popper.min.js"></script>
 		<script type="text/javascript" src="static/resources/javascript/clipboard.min.js"></script>
 		<script type="text/javascript" src="static/resources/javascript/fuse.min.js"></script>

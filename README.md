@@ -98,6 +98,7 @@ Translating Advancedban Panel is simple. Languages are located in `static\langua
 		"languages": "Languages",
 		"players": "Players",
 		"search": "Search",
+    "filter": "Filter",
 		"copy": "Copy",
 		"copied": "Copied",
 		"inactive": "Inactive",
